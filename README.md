@@ -2,6 +2,8 @@
 
 --- Remember: You can find the datasets and databases fot the Notebooks in 'File' folder ---
 
+
+
 Advanced Matplotlib Concepts.ipynb		===> material to learn to use matplotlib library
 
 Matplotlib Exercises - Solutions.ipynb 	===> excersises to improve skills using matplotlib
@@ -19,10 +21,10 @@ Data Transformation  ===> Examples of making data normalization
 Tidy Data examples  ===>  Tidy Data by Hadley Wickham (2014): the paper focuses on one aspect of cleaning up data. The examples in the Notebook are mentioned in the book
 
 
-
-
-
 Working with HoyoDeCrimen API.ipynb ===> Using the HoyoDeCrimen's API (https://hoyodecrimen.com/api/) to extract data about crimes at CDMX, Mexico and visualize it
+
+
+
 
 ## Support
 You can email samuel040999@gmail.com or st1809173@upy.edu.mx
