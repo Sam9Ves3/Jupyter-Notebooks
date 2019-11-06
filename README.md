@@ -1,5 +1,5 @@
 # What are the Jupyter Notebooks about?
--- A brief description of every file --
+
 --- Remember: You can find the datasets and databases fot the Notebooks in 'File' folder ---
 
 Advanced Matplotlib Concepts.ipynb		===> material to learn to use matplotlib library
